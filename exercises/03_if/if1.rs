@@ -13,6 +13,7 @@ fn bigger(a: i32, b: i32) -> i32 {
 
 fn main() {
     // You can optionally experiment here.
+    bigger(5, 9);
 }
 
 // Don't mind this for now :)
